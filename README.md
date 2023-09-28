@@ -2,7 +2,7 @@
 🔭 I'm currently working on Flask deployment<br>
 🤝 I'm looking to collaborate on Python, AI, web and JS projects!<br>
 🙋‍♂️ I'm looking for help with working with Appwrite and Next<br>
-📖 I'm currently learning JS and react<br>
+📖 I'm currently learning Next JS<br>
 💬 Ask me about Python 🐍<br>
 👀 Feels happy about you visiting my profile <br>
 **⚡⚡⚡ I like Harry Potter ⚡⚡⚡**
