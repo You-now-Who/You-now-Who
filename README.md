@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I'm currently working on Flask deployment<br>
+🔭 I'm currently working on Serverless Functions<br>
 🤝 I'm looking to collaborate on Python, AI, web and JS projects!<br>
-🙋‍♂️ I'm looking for help with working with Appwrite and Next<br>
-📖 I'm currently learning Next JS<br>
-💬 Ask me about Python 🐍<br>
+🙋‍♂️ I'm looking for help with working with hosting containers<br>
+📖 I'm currently learning FastAPI<br>
+💬 Ask me about Python 🐍 and Pizza 🍕 <br>
 👀 Feels happy about you visiting my profile <br>
 **⚡⚡⚡ I like Harry Potter ⚡⚡⚡**
 <br>
