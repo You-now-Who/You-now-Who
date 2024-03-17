@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 I'm currently working on Serverless Functions<br>
+🔭 I'm currently working on Search Trees<br>
 🤝 I'm looking to collaborate on Python, AI, web and JS projects!<br>
-🙋‍♂️ I'm looking for help with working with hosting containers<br>
-📖 I'm currently learning FastAPI<br>
+🙋‍♂️ I'm looking for help with working with payment pathway integrations<br>
+📖 I'm currently learning Search Trees<br>
 💬 Ask me about Python 🐍 and Pizza 🍕 <br>
 👀 Feels happy about you visiting my profile <br>
 **⚡⚡⚡ I like Harry Potter ⚡⚡⚡**
