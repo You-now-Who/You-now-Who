@@ -18,7 +18,9 @@
 - ⚡ Fun fact **<3 Python**
 
 <h3 align="left">Connect with me:</h3>
+  
 <p align="left">
+  Just send me a good old-fashioned letter. Or message me on Discord at `four.oh.four`
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
