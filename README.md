@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=you-now-who" alt="you-now-who" /></a> </p>
 
+- 👋 Finally back after a long break!
+
 - 🔭 I’m currently working on [Cheddar](https://github.com/You-now-Who/Cheddar)
 
 - 🌱 I’m currently learning **Search Trees**
@@ -19,9 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
   
-<p align="left">
   Just send me a good old-fashioned letter. Or message me on Discord at `four.oh.four`
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left"> Believe it or not, I didn't just click 'All of the above' for the skills portion of my readme </h4> 
