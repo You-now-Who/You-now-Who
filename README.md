@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=you-now-who&label=Profile%20views&color=0e75b6&style=flat" alt="you-now-who" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=you-now-who&title=MultiLanguage,Reposittories,Commits,Followers,PullRequest,Experience&theme=onedark" alt="you-now-who" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=you-now-who&title=MultiLanguage,Reposittories,Commits,Followers,PullRequest,Experience&theme=dracula" alt="you-now-who" /></a> </p>
 
 - 👋 Finally back after a long break!
 
