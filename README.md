@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **Search trees**
 
-- 🤝 I’m looking for help with **Payment Pathway Integrations**
-
 - 💬 Ask me about **Threads**
 
 - ⚡ Fun fact **<3 Python**
