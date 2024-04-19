@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=you-now-who&show_icons=true&locale=en&layout=compact&theme=dracula" alt="you-now-who" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=you-now-who&show_icons=true&locale=en&theme=dracula" alt="you-now-who" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=you-now-who&show_icons=true&locale=en&theme=dracula&combine_all_yearly_contributions=true" alt="you-now-who" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=you-now-who&theme=dracula" alt="you-now-who" /></p>
