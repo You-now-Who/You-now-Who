@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=you-now-who&title=MultiLanguage,Reposittories,Commits,Followers,PullRequest,Experience&theme=dracula" alt="you-now-who" /></a> </p>
 
-- 👋 Finally back after a long break!
+- 👋 On a break!
 
 - 🔭 I’m currently working on [a chess engine.](https://github.com/You-now-Who/Cheddar)
 
