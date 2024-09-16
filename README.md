@@ -7,8 +7,6 @@
 
 - 👋 On a break!
 
-- 🔭 I’m currently working on [a chess engine.](https://github.com/You-now-Who/Cheddar)
-
 - 🌱 I’m currently learning **Search Trees**
 
 - 👯 I’m looking to collaborate on **Search trees**
