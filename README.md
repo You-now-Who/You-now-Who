@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=you-now-who&title=MultiLanguage,Reposittories,Commits,Followers,PullRequest,Experience&theme=dracula" alt="you-now-who" /></a> </p>
 
-- 👋 On a break
+- 👋 Back coding after a long time :)
 
 - 🌱 I’m currently learning **Search Trees**
 
