@@ -8,11 +8,11 @@
 
 - 👋 Back coding after a long time :)
 
-- 🌱 I’m currently learning **Search Trees**
+- 🌱 I’m currently learning **Network Programming**
 
-- 👯 I’m looking to collaborate on **Search trees**
+- 👯 I’m looking to collaborate on **Rust/Systems programming projects**
 
-- 💬 Ask me about **Threads**
+- 💬 Ask me about **Pizza**
 
 - ⚡ Fun fact **<3 Python**
 
