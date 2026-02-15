@@ -4,8 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=you-now-who&label=Profile%20views&color=0e75b6&style=flat" alt="you-now-who" /> </p>
 
-![](https://images.wallpapersden.com/image/download/just-people-hd-minimal-cool_bWlnZmqUmZqaraWkpJRnamtlrWZpaWU.jpg)
-
+[![asd.jpg](https://i.postimg.cc/fRLd4Xg4/asd.jpg)](https://postimg.cc/QH2C1B3S)
 </br>
 
 - 👋 Back coding after a long time :)
