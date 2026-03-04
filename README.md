@@ -8,13 +8,13 @@
 
 <h1></h1>
 
-- 👋 Back coding after a long time :)
+- 👋 Phasing in and out of builder mode.
 
-- 🌱 I’m currently learning **Network Programming**
+- 🌱 I’m currently learning **Agent Development Pipelines.**
 
-- 👯 I’m looking to collaborate on **Rust/Systems programming projects**
+- 👯 I’m looking to collaborate on **mechanistic interpretability.**
 
-- 💬 Ask me about **Pizza**
+- 💬 Ask me about **hackathons**
 
 - ⚡ Fun fact **<3 Python**
 
